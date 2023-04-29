@@ -1,2 +1,3 @@
 # hello-world
-My first Repository 
+My first repository.
+I love video games and food!
